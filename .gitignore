@@ -1,0 +1,6 @@
+# Banco local, criado automaticamente pelo sistema
+/banco.sqlite
+/banco.sqlite-*
+
+# Arquivos temporários do Microsoft Word
+~$*
